@@ -1,6 +1,5 @@
 //Created by KhanhNVTB in 06/2021
-//Khuyến khích thực hiện ý tưởng trước khi xem đáp án, nên chạy code ra giấy để hiểu ý tưởng và cách chương trình chạy
-//Code chỉ dành để tham khảo. Không khuyến khích sao chép.
+
 1. HELLO        Hello World
 //Code:
 #include<bits/stdc++.h>
